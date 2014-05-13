@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"game",
+				"game_over_message"
+			],
+			[
+				"ove",
+				"game_over_message"
+			],
+			[
+				"current",
+				"current_player"
+			],
+			[
+				"hum",
+				"human_move"
+			],
+			[
+				"humn",
+				"human_move_to_coordinate"
+			],
+			[
+				"other",
+				"other_player"
+			],
+			[
+				"cur",
+				"current_player"
+			],
+			[
+				"Win",
+				"winning_position"
+			],
+			[
+				"win",
+				"winning_position"
+			],
+			[
+				"screen_name",
+				"screen_name"
+			],
+			[
+				"spam",
+				"spam_my_followers"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"gues",
+				"guessed_char"
+			],
+			[
+				"gue",
+				"guessed_char"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 568,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"selected_items":
+		[
+			[
+				"preview in",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/first_app/Gemfile",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/first_app/config/environments/development.rb",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/sample_app/config/environments/development.rb",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/sample_app/Gemfile",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/demo_app/app/models/user.rb",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/demo_app/app/models/micropost.rb",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/demo_app/config/environments/development.rb",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/demo_app/Gemfile",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/project_starting/demo_app/config/environments/development.rb",
+		"/home/anh/projects/studying-odin-project/4_ruby_on_rails/project_starting/demo_app/Gemfile",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/lib/tic_tac_toe/board.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/spec/game_spec.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/lib/tic_tac_toe/game.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/example/example_game.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/lib/tic_tac_toe.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/spec/core_extensions_spec.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/lib/tic_tac_toe/core_extensions.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/spec/board_spec.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/spec/cell_spec.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/lib/tic_tac_toe/cell.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/spec/spec_helper.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/lib/tic_tac_toe/player.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/spec/player_spec.rb",
+		"/home/anh/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/anh/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_rspec/tic_tac_toe/tic_tac_toe.gemspec",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_ruby_on_the_web/client_server/thanks.html",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_ruby_on_the_web/client_server/tiny_browser.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_ruby_on_the_web/client_server/simple_server.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_ruby_on_the_web/client_server/simple_client.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_ruby_on_the_web/client_server/index.html",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_serialization/event_manager/lib/event_manager.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_ruby_on_the_web/micro_blogger.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_serialization/hangman/hangman.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_serialization/hangman/hangman.md",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_oop/tic_tac_toe.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_serialization/event_manager/form_letter.html",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_serialization/event_manager/form_letter.erb",
+		"/home/anh/.config/sublime-text-2/Packages/User/Ruby.sublime-settings",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_serialization/lib/event_manager.rb",
+		"/home/anh/projects/studying-odin-project/3_ruby_programming/project_building_blocks/caesar_cipher.rb"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auto_complete",
+			"sort",
+			"load_game",
+			"save_game",
+			"current_state",
+			"split",
+			"wrong_char",
+			"all",
+			"any",
+			"space"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								568,
+								568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true
+}
