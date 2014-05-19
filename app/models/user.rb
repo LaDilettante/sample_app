@@ -1,9 +1,11 @@
 class User < ActiveRecord::Base
-  before_save { self.email = email.downcase } # Callback
+  before_save { email.downcase! } 
+  # Callback, a method that gets invoked at a particular point in the lifetime
+  # of an Active Record object
 
   validates :name, presence: true, length: { maximum: 50 }
 
-  VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i
+  VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-]+(?:\.[a-z\d\-]+)*\.[a-z]+\z/i
   validates :email, presence: true, format: { with: VALID_EMAIL_REGEX }, 
                     uniqueness: { case_sensitive: false }
 
